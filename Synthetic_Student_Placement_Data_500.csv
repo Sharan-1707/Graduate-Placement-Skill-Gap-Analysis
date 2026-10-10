@@ -1,0 +1,501 @@
+Student_ID,Department,CGPA,Internship,Projects_Count,Certifications_Count,Skills,Placement_Eligible,Placement_Status,Company,Job_Role,Package_LPA
+ER001,ECE,7.8,No,3,1,"C++, Embedded C, MATLAB",Yes,Not Placed,,,
+ER002,CSE,8.7,Yes,5,5,"Python, React, HTML/CSS, JavaScript, DSA, Machine Learning",Yes,Placed,Wipro,Project Engineer,3.88
+ER003,Mechanical,8.39,Yes,2,5,"MATLAB, CATIA, 3D Printing, CNC/Manufacturing, AutoCAD",Yes,Placed,Toyota Kirloskar,Production Engineer,5.51
+ER004,CSE,7.75,Yes,3,2,"Git, C++, Python",Yes,Placed,Fractal Analytics,Data Analyst,7.44
+ER005,Civil,7.03,No,3,0,"STAAD Pro, MS Project, ETABS, Revit",Yes,Not Placed,,,
+ER006,CSE (Data Science),7.4,Yes,3,6,"Tableau, Pandas, Machine Learning",Yes,Placed,Infosys,Operations Executive,3.95
+ER007,Information Science,8.18,Yes,5,4,"JavaScript, DSA, Python, Git, HTML/CSS",Yes,Placed,Deloitte,Analyst,8.73
+ER008,Information Science,6.43,No,0,2,"Java, DSA, Cloud Computing",Yes,Placed,Fractal Analytics,Data Analyst,6.61
+ER009,Information Science,7.83,Yes,4,2,"Java, Git, SQL, Excel",Yes,Placed,Accenture,Associate Software Engineer,4.98
+ER010,ECE,6.58,No,2,2,IoT,Yes,Not Placed,,,
+ER011,CSE,6.81,Yes,5,1,"Node.js, Python, SQL",Yes,Placed,Capgemini,Analyst,5.05
+ER012,Civil,5.88,No,1,4,"MS Project, Revit, Surveying, AutoCAD",No,Not Placed,,,
+ER013,Mechanical,8.55,Yes,3,2,"MATLAB, ANSYS, Python, CATIA, SolidWorks",Yes,Placed,Tata Motors,Graduate Engineer Trainee,5.45
+ER014,CSE (Data Science),8.35,Yes,5,2,"Power BI, Pandas, Machine Learning",Yes,Placed,Tech Mahindra,Associate Engineer,4.23
+ER015,Civil,7.2,Yes,0,1,"Estimation & Costing, STAAD Pro, Excel",Yes,Not Placed,,,
+ER016,EEE,7.36,No,3,0,"PLC/SCADA, Electrical Design, Power Systems, Excel",Yes,Placed,L&T Construction,Site Engineer,4.37
+ER017,Civil,7.54,No,2,4,"Surveying, AutoCAD, ETABS, MS Project",Yes,Not Placed,,,
+ER018,Civil,6.32,No,1,0,"Estimation & Costing, STAAD Pro, MS Project",Yes,Not Placed,,,
+ER019,Mechanical,7.94,No,1,0,"ANSYS, Excel, AutoCAD, SolidWorks",Yes,Not Placed,,,
+ER020,ECE,6.84,Yes,1,3,"Arduino, Signal Processing, Excel, Verilog",Yes,Placed,Wipro,Software Engineer Trainee,3.5
+ER021,CSE,8.06,Yes,3,2,"Python, JavaScript, Machine Learning, SQL",Yes,Placed,Accenture,Associate Software Engineer,5.36
+ER022,Information Science,7.84,Yes,3,4,"Git, React, JavaScript, Excel, Cyber Security",Yes,Placed,TCS,Systems Engineer,4.42
+ER023,ECE,8.87,Yes,6,3,"VLSI, Verilog, Python, PCB Design",Yes,Placed,Wipro,Software Engineer Trainee,3.93
+ER024,CSE,7.57,Yes,2,2,"SQL, C++, Git, DSA",Yes,Placed,LTIMindtree,Graduate Engineer Trainee,5.29
+ER025,CSE (Data Science),8.23,Yes,4,0,"Machine Learning, Deep Learning, Power BI, Tableau",Yes,Placed,Wipro,Software Engineer Trainee,3.72
+ER026,EEE,7.29,No,3,1,"Arduino, Python, Electrical Design",Yes,Not Placed,,,
+ER027,CSE,8.69,Yes,4,4,"JavaScript, Java, React, AWS, SQL",Yes,Placed,TCS,Systems Engineer,4.35
+ER028,CSE,8.28,Yes,1,1,"React, Java, Spring Boot, DSA",Yes,Placed,Accenture,Application Development Analyst,4.9
+ER029,CSE,7.25,No,4,5,"Git, Python, HTML/CSS",Yes,Placed,Fractal Analytics,Data Analyst,7.19
+ER030,EEE,7.46,No,3,2,"Power Systems, Arduino, Embedded C",Yes,Not Placed,,,
+ER031,EEE,7.7,Yes,2,3,"AutoCAD, MATLAB, Excel, PLC/SCADA, Arduino, Power Systems",Yes,Placed,Kirloskar Brothers,Graduate Engineer Trainee,4.59
+ER032,EEE,6.6,No,1,2,"AutoCAD, Excel, Embedded C",Yes,Not Placed,,,
+ER033,CSE,8.09,Yes,3,3,"Python, Git, Spring Boot, SQL, Machine Learning",Yes,Placed,Goldman Sachs,Software Engineer,21.51
+ER034,EEE,7.77,No,3,4,"MATLAB, Electrical Design, AutoCAD",No,Not Placed,,,
+ER035,Information Science,8.86,Yes,5,3,"Excel, Cloud Computing, HTML/CSS, React",Yes,Placed,Fractal Analytics,Business Analyst,6.94
+ER036,Civil,6.74,No,0,2,"STAAD Pro, Excel, MS Project",Yes,Not Placed,,,
+ER037,Mechanical,8.13,Yes,1,2,"ANSYS, CNC/Manufacturing, SolidWorks, CATIA, Excel, AutoCAD, Python",Yes,Placed,L&T Construction,Site Engineer,4.21
+ER038,Information Science,7.29,No,2,1,"Java, HTML/CSS, Python",Yes,Placed,TCS,Assistant System Engineer,4.38
+ER039,Mechanical,6.68,No,1,2,"3D Printing, Python, SolidWorks",Yes,Placed,Tata Motors,Graduate Engineer Trainee,6.06
+ER040,Information Science,7.73,Yes,2,0,"Python, Java, Excel",Yes,Placed,Flipkart,Software Development Engineer,19.6
+ER041,Information Science,7.13,No,5,2,"JavaScript, HTML/CSS, Python, SQL, Java",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.58
+ER042,EEE,7.45,Yes,2,1,"Arduino, Embedded C, PLC/SCADA",Yes,Not Placed,,,
+ER043,CSE,8.42,Yes,3,4,"JavaScript, SQL, AWS, Java",Yes,Placed,Tech Mahindra,Software Engineer,3.76
+ER044,EEE,8.27,No,4,3,"Excel, Power Systems, Electrical Design, AutoCAD",Yes,Placed,Kirloskar Brothers,Graduate Engineer Trainee,3.83
+ER045,ECE,6.39,Yes,1,4,"Python, Signal Processing, Arduino, Excel, MATLAB",Yes,Not Placed,,,
+ER046,CSE,9.74,Yes,6,4,"Git, Spring Boot, SQL, Java, HTML/CSS, Machine Learning",Yes,Placed,Tech Mahindra,Software Engineer,4.35
+ER047,Information Science,7.74,No,3,4,"React, JavaScript, DSA, Cloud Computing",Yes,Placed,Accenture,Application Development Analyst,5.56
+ER048,Information Science,7.81,No,3,3,"Cloud Computing, SQL",Yes,Placed,Flipkart,Software Development Engineer,19.41
+ER049,Mechanical,8.55,Yes,2,3,"SolidWorks, ANSYS, MATLAB, Python, CATIA, CNC/Manufacturing",Yes,Placed,L&T Construction,Site Engineer,5
+ER050,Mechanical,7.19,Yes,3,2,"Excel, Python, 3D Printing",Yes,Not Placed,,,
+ER051,Civil,6.04,No,3,2,"Estimation & Costing, STAAD Pro",Yes,Not Placed,,,
+ER052,Civil,8.39,Yes,4,5,"Excel, Estimation & Costing, Revit, STAAD Pro, Surveying",Yes,Placed,Kirloskar Brothers,Design Engineer,4.5
+ER053,EEE,8.08,Yes,3,2,"Arduino, Electrical Design, Excel, PLC/SCADA",Yes,Placed,TCS,Assistant System Engineer,4.12
+ER054,Information Science,8.11,Yes,4,3,"JavaScript, Git, DSA, SQL, Cyber Security",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.57
+ER055,EEE,7.18,No,1,2,"Arduino, Embedded C, Electrical Design",Yes,Not Placed,,,
+ER056,Civil,7.23,No,5,4,"Primavera, AutoCAD",Yes,Placed,L&T Construction,Graduate Engineer Trainee,4.41
+ER057,CSE (Data Science),9.22,Yes,6,4,"Pandas, SQL, Statistics, Tableau, Git, Deep Learning",Yes,Placed,Mphasis,Data Analyst Trainee,5.81
+ER058,Information Science,7.57,No,3,1,"JavaScript, HTML/CSS, Cloud Computing",Yes,Not Placed,,,
+ER059,CSE (Data Science),6.89,Yes,1,1,"Java, Power BI, Python",No,Not Placed,,,
+ER060,CSE (Data Science),7.43,No,3,1,"Deep Learning, Machine Learning",Yes,Placed,Wipro,Software Engineer Trainee,3.85
+ER061,Civil,6.84,No,0,1,"STAAD Pro, ETABS",Yes,Not Placed,,,
+ER062,Information Science,7.36,Yes,4,1,"React, Cloud Computing, Python",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.62
+ER063,ECE,7.51,No,3,1,Excel,Yes,Placed,LTIMindtree,Software Engineer,5.93
+ER064,Civil,7.85,No,1,1,"MS Project, Excel, STAAD Pro, ETABS, Revit",Yes,Not Placed,,,
+ER065,CSE,7.39,No,4,3,"Spring Boot, JavaScript, React, Java, Node.js",Yes,Placed,TCS,Systems Engineer,4.26
+ER066,Information Science,7.69,Yes,4,3,"DSA, Git, Cloud Computing",Yes,Placed,LTIMindtree,Graduate Engineer Trainee,5.65
+ER067,Mechanical,6.76,Yes,3,2,"ANSYS, Excel",Yes,Not Placed,,,
+ER068,EEE,6.54,No,0,1,"Python, PLC/SCADA",Yes,Not Placed,,,
+ER069,EEE,8.05,No,2,3,"MATLAB, Electrical Design, Embedded C",Yes,Placed,Wipro,Software Engineer Trainee,3.89
+ER070,Civil,7.05,No,2,3,"STAAD Pro, Primavera, Revit, AutoCAD",Yes,Not Placed,,,
+ER071,ECE,7.33,No,1,1,"Signal Processing, PCB Design, Python, VLSI",Yes,Placed,TCS,Assistant System Engineer,4.11
+ER072,CSE,8.46,No,5,4,"SQL, Spring Boot, HTML/CSS, Java",Yes,Placed,Mphasis,Software Engineer,5.52
+ER073,CSE,7.42,Yes,4,5,"Git, Node.js, Spring Boot, AWS",Yes,Placed,Mphasis,Software Engineer,4.86
+ER074,Information Science,7.25,No,2,4,"Cyber Security, DSA, JavaScript, HTML/CSS, React",Yes,Placed,TCS,Assistant System Engineer,3.76
+ER075,CSE,7.83,No,1,1,"HTML/CSS, AWS",Yes,Not Placed,,,
+ER076,Mechanical,6.2,No,2,2,Python,Yes,Not Placed,,,
+ER077,CSE,8.23,Yes,3,2,"SQL, Java, JavaScript",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.65
+ER078,Civil,6.39,Yes,0,1,"MS Project, Surveying, Primavera",Yes,Not Placed,,,
+ER079,Information Science,6.87,Yes,2,4,"HTML/CSS, React",Yes,Placed,Accenture,Associate Software Engineer,5.48
+ER080,Information Science,6.27,No,2,1,"React, JavaScript, Excel",Yes,Not Placed,,,
+ER081,CSE,7.31,No,3,3,"HTML/CSS, Node.js, Git, JavaScript",Yes,Not Placed,,,
+ER082,CSE,8.74,Yes,4,2,"Spring Boot, Git, Java, Machine Learning, C++, AWS",Yes,Placed,Fractal Analytics,Business Analyst,6.34
+ER083,ECE,7.38,Yes,2,3,"Signal Processing, IoT, Arduino, VLSI",Yes,Placed,Accenture,Associate Software Engineer,5.92
+ER084,CSE,7.37,No,1,2,"React, JavaScript",Yes,Placed,Wipro,Project Engineer,3.68
+ER085,CSE,7.82,Yes,4,4,"Spring Boot, React, C++, Git",Yes,Placed,Accenture,Application Development Analyst,6.01
+ER086,Information Science,8.11,Yes,2,3,"React, JavaScript, Cloud Computing",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.7
+ER087,Information Science,7.72,Yes,2,2,"React, JavaScript, DSA, Python",Yes,Placed,TCS,Systems Engineer,4.1
+ER088,Mechanical,5.96,Yes,2,1,"ANSYS, SolidWorks, CNC/Manufacturing, 3D Printing",No,Not Placed,,,
+ER089,CSE (Data Science),7.08,No,3,0,"Power BI, Excel, Tableau, Machine Learning, Python",Yes,Not Placed,,,
+ER090,CSE,8.6,Yes,2,2,"JavaScript, C++, Spring Boot, Python",Yes,Placed,TCS,Assistant System Engineer,4.38
+ER091,ECE,6.85,Yes,2,3,"Signal Processing, IoT, VLSI",Yes,Not Placed,,,
+ER092,Information Science,6.47,No,3,3,"JavaScript, Excel, DSA",Yes,Not Placed,,,
+ER093,Mechanical,6.41,No,1,2,"MATLAB, ANSYS, AutoCAD",Yes,Not Placed,,,
+ER094,CSE,7.54,Yes,2,3,"DSA, Machine Learning",Yes,Placed,Tech Mahindra,Associate Engineer,4.23
+ER095,CSE,8.66,Yes,5,2,"SQL, Node.js, C++, Spring Boot",Yes,Placed,Mphasis,Data Analyst Trainee,5.49
+ER096,Information Science,6.6,Yes,3,2,"Java, Python",Yes,Placed,Capgemini,Software Engineer,4.3
+ER097,CSE,7.46,Yes,3,4,"JavaScript, React, C++",Yes,Placed,Infosys,Systems Engineer,3.87
+ER098,CSE (Data Science),7.15,Yes,1,3,"Power BI, AWS",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.83
+ER099,Civil,8.17,No,4,3,"STAAD Pro, Estimation & Costing, ETABS, Primavera",Yes,Not Placed,,,
+ER100,Information Science,7.21,No,3,2,"DSA, Cloud Computing, SQL, Java",Yes,Placed,Fractal Analytics,Data Analyst,6.55
+ER101,ECE,6.89,No,2,3,"MATLAB, Excel",Yes,Placed,Infosys,Systems Engineer,4
+ER102,EEE,8.52,No,3,2,"Electrical Design, AutoCAD, Python, Embedded C",Yes,Placed,TCS,Systems Engineer,4.48
+ER103,CSE,7.58,Yes,3,4,"JavaScript, Spring Boot, HTML/CSS",Yes,Placed,Fractal Analytics,Data Analyst,6.01
+ER104,CSE,7.95,Yes,5,1,"C++, AWS, SQL",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.74
+ER105,Civil,7.65,Yes,4,0,"MS Project, Revit, STAAD Pro, ETABS",Yes,Placed,Tata Projects,Planning Engineer,4.35
+ER106,ECE,7.36,No,2,4,"MATLAB, IoT, Python",Yes,Not Placed,,,
+ER107,CSE,6.81,No,2,2,"DSA, AWS, Git",Yes,Not Placed,,,
+ER108,EEE,8.35,No,3,1,"Python, MATLAB, Embedded C, PLC/SCADA",Yes,Placed,Wipro,Software Engineer Trainee,3.73
+ER109,CSE,7.39,No,2,3,"SQL, C++, Spring Boot",Yes,Not Placed,,,
+ER110,EEE,5.57,No,2,0,MATLAB,No,Not Placed,,,
+ER111,CSE,8.28,Yes,4,2,"Machine Learning, JavaScript, Node.js",Yes,Placed,Accenture,Associate Software Engineer,6.24
+ER112,CSE (Data Science),6.97,Yes,3,3,"AWS, Git",Yes,Placed,Wipro,Project Engineer,3.65
+ER113,CSE,8.29,No,4,2,"SQL, Git",Yes,Not Placed,,,
+ER114,Information Science,8.17,Yes,4,5,"Cyber Security, DSA, JavaScript, Java, Cloud Computing",Yes,Placed,LTIMindtree,Software Engineer,6.34
+ER115,CSE (Data Science),7.81,Yes,2,4,"Python, Git, Machine Learning, SQL",Yes,Not Placed,,,
+ER116,Mechanical,9.05,Yes,2,3,"CATIA, AutoCAD, 3D Printing",Yes,Placed,Siemens,Automation Engineer,9.76
+ER117,CSE,6.93,Yes,1,2,"Spring Boot, Node.js",Yes,Not Placed,,,
+ER118,CSE (Data Science),8.51,No,3,4,"AWS, SQL, Tableau, Java",Yes,Placed,TCS,Assistant System Engineer,3.9
+ER119,CSE,8.07,No,4,1,"Node.js, Machine Learning",Yes,Placed,Wipro,Project Engineer,3.76
+ER120,CSE (Data Science),6.96,No,3,4,"Git, Statistics, AWS, SQL",Yes,Placed,Fractal Analytics,Business Analyst,6.2
+ER121,CSE,7.94,No,3,0,"Machine Learning, React, C++, Node.js",Yes,Placed,Goldman Sachs,Analyst,20.43
+ER122,ECE,7.73,Yes,2,4,"MATLAB, Signal Processing, VLSI, Embedded C",Yes,Not Placed,,,
+ER123,CSE (Data Science),7.08,No,3,3,"Deep Learning, Excel, Power BI",Yes,Not Placed,,,
+ER124,ECE,6.93,No,3,2,"PCB Design, Verilog, IoT",Yes,Not Placed,,,
+ER125,ECE,8,No,4,2,"VLSI, Excel, Arduino",Yes,Placed,Schneider Electric,Field Service Engineer,6.64
+ER126,ECE,7.53,No,2,2,"Signal Processing, Excel, Python, VLSI",Yes,Not Placed,,,
+ER127,CSE,7.99,No,5,0,"AWS, C++, Git, SQL",Yes,Placed,Intel,Design Engineer,11.32
+ER128,CSE (Data Science),8.18,No,3,4,"Pandas, Machine Learning, Power BI, Java",Yes,Placed,Mphasis,Software Engineer,5.21
+ER129,CSE,9,No,4,2,"Spring Boot, HTML/CSS, AWS, Git",No,Not Placed,,,
+ER130,CSE (Data Science),9.51,Yes,3,3,"Machine Learning, Pandas, Python, Java, SQL, Deep Learning",Yes,Placed,Tech Mahindra,Software Engineer,4.5
+ER131,EEE,7.51,No,3,3,"Embedded C, AutoCAD",Yes,Not Placed,,,
+ER132,Information Science,7.65,No,2,2,"JavaScript, Git, DSA, Excel",Yes,Placed,Bosch,Software Engineer,7.73
+ER133,Information Science,8.06,No,2,0,"Python, Cloud Computing, SQL, Excel",Yes,Placed,Wipro,Software Engineer Trainee,3.65
+ER134,CSE,7.44,Yes,3,3,"AWS, Java, SQL",Yes,Placed,Infosys,Operations Executive,3.72
+ER135,Civil,5.73,No,2,4,"MS Project, Revit",No,Not Placed,,,
+ER136,CSE,9.2,Yes,3,5,"JavaScript, Spring Boot, DSA, AWS",Yes,Placed,Deloitte,Analyst,11.77
+ER137,CSE,9.05,No,2,7,"Java, C++, SQL, JavaScript",Yes,Placed,Tech Mahindra,Associate Engineer,4.13
+ER138,CSE,7.71,No,2,3,"Machine Learning, React, C++, Node.js",Yes,Placed,Capgemini,Software Engineer,4.93
+ER139,Civil,7.68,No,3,4,"Revit, Primavera, STAAD Pro",Yes,Placed,Tata Projects,Graduate Engineer Trainee,4.39
+ER140,EEE,7.85,No,3,0,"Python, Embedded C, Excel",Yes,Placed,TCS,Systems Engineer,3.98
+ER141,CSE (Data Science),8.17,Yes,4,3,"Power BI, Tableau, SQL, AWS, Git, Java",Yes,Placed,Infosys,Operations Executive,4.23
+ER142,ECE,6.64,No,2,4,VLSI,Yes,Placed,Cognizant,Programmer Analyst Trainee,4.39
+ER143,CSE,7.18,Yes,3,2,"Git, SQL, Node.js, C++, DSA, Python",Yes,Placed,Mphasis,Data Analyst Trainee,4.94
+ER144,Mechanical,5.28,No,1,0,"3D Printing, AutoCAD, Python",No,Not Placed,,,
+ER145,CSE,7.56,Yes,2,0,"Python, AWS, DSA, Machine Learning, React",Yes,Placed,TCS,Assistant System Engineer,3.93
+ER146,Civil,6.81,No,1,3,"Primavera, Revit, Excel",Yes,Not Placed,,,
+ER147,Information Science,7.27,No,1,2,"Cyber Security, HTML/CSS, SQL, Python, Cloud Computing",Yes,Not Placed,,,
+ER148,CSE (Data Science),7.05,Yes,3,3,"SQL, Deep Learning, Java",Yes,Not Placed,,,
+ER149,Civil,6.69,Yes,2,2,MS Project,Yes,Not Placed,,,
+ER150,ECE,7.44,Yes,3,4,VLSI,Yes,Not Placed,,,
+ER151,ECE,8.47,Yes,4,2,"IoT, Verilog, Signal Processing, Arduino, PCB Design",Yes,Placed,Bosch,Embedded Engineer,10.43
+ER152,ECE,9.01,No,3,3,"Embedded C, IoT, Signal Processing, C++, MATLAB",Yes,Placed,Siemens,Graduate Engineer Trainee,7.84
+ER153,ECE,8.42,Yes,4,3,"Arduino, PCB Design, IoT, Python, MATLAB",Yes,Placed,Infosys,Systems Engineer,4.22
+ER154,Civil,7.71,Yes,3,2,"AutoCAD, Primavera, Estimation & Costing",Yes,Placed,Shapoorji Pallonji,Quantity Surveyor Trainee,5.74
+ER155,Information Science,8.07,Yes,5,3,"Cloud Computing, React, Cyber Security, DSA, Excel",Yes,Placed,Oracle,Associate Software Developer,14.47
+ER156,Information Science,8.28,No,1,4,"DSA, Cyber Security, React",Yes,Placed,Wipro,Software Engineer Trainee,3.78
+ER157,CSE,8.59,No,4,1,"React, Java, Machine Learning",Yes,Placed,Mphasis,Software Engineer,5.77
+ER158,EEE,8.42,Yes,2,3,"Power Systems, AutoCAD, PLC/SCADA, Python, Electrical Design",Yes,Placed,Wipro,Project Engineer,3.76
+ER159,ECE,8.5,Yes,3,2,"Python, Excel, Arduino, IoT, Verilog, MATLAB",Yes,Placed,Tech Mahindra,Software Engineer,4.42
+ER160,Civil,6.28,No,3,2,"STAAD Pro, Estimation & Costing",Yes,Not Placed,,,
+ER161,Mechanical,6.48,No,0,1,"SolidWorks, CATIA",Yes,Not Placed,,,
+ER162,ECE,7.54,Yes,4,4,"Excel, C++, Arduino, MATLAB",Yes,Placed,TCS,Systems Engineer,3.78
+ER163,CSE (Data Science),7.15,No,3,2,"Power BI, Deep Learning",Yes,Placed,Capgemini,Software Engineer,5.35
+ER164,ECE,8.42,No,4,3,"Excel, VLSI, Verilog, Arduino, Signal Processing",Yes,Placed,Infosys,Systems Engineer,4.14
+ER165,CSE,7.32,Yes,3,4,"Machine Learning, DSA, C++",Yes,Placed,TCS,Systems Engineer,4.26
+ER166,Mechanical,7.19,Yes,5,1,"ANSYS, Python, 3D Printing, AutoCAD, MATLAB",Yes,Placed,Kirloskar Brothers,Design Engineer,3.64
+ER167,CSE,7.63,Yes,1,3,"Python, DSA, Machine Learning, HTML/CSS",Yes,Placed,Fractal Analytics,Business Analyst,5.66
+ER168,Information Science,7.53,No,2,5,"React, DSA, JavaScript, HTML/CSS, Excel",Yes,Not Placed,,,
+ER169,Information Science,9.55,Yes,6,4,"Excel, Cyber Security, Cloud Computing, Git, JavaScript, DSA",Yes,Placed,Deloitte,Analyst,10.77
+ER170,CSE,8.18,Yes,3,3,"Python, Node.js, Java, DSA, Machine Learning",Yes,Placed,Fractal Analytics,Business Analyst,7.53
+ER171,Civil,7.86,Yes,3,3,"Primavera, Surveying, ETABS, STAAD Pro, Estimation & Costing",Yes,Not Placed,,,
+ER172,Information Science,7.8,No,3,2,"Java, JavaScript",Yes,Placed,Mphasis,Data Analyst Trainee,5.08
+ER173,ECE,7.45,No,3,2,"IoT, Excel, Embedded C, VLSI",Yes,Not Placed,,,
+ER174,EEE,6.84,Yes,1,2,"Embedded C, Excel, Power Systems",Yes,Placed,Tata Motors,Graduate Engineer Trainee,4.54
+ER175,CSE,8.42,Yes,4,2,"JavaScript, Python, Machine Learning",Yes,Placed,Tech Mahindra,Software Engineer,3.86
+ER176,ECE,6.74,No,2,1,"Embedded C, Python, Signal Processing",Yes,Placed,Tech Mahindra,Associate Engineer,3.88
+ER177,CSE (Data Science),8.18,Yes,2,2,"Power BI, Python, Excel",Yes,Placed,Mphasis,Software Engineer,5.45
+ER178,CSE,8.6,Yes,5,4,"C++, JavaScript, Machine Learning, AWS, React",Yes,Placed,Oracle,Cloud Engineer,16.76
+ER179,CSE (Data Science),8.03,Yes,3,3,"Git, Statistics, Deep Learning",Yes,Placed,Fractal Analytics,Business Analyst,6.12
+ER180,Civil,8.34,Yes,4,2,"Surveying, ETABS, Revit, STAAD Pro",Yes,Placed,Kirloskar Brothers,Design Engineer,4.21
+ER181,CSE,7.62,No,3,3,"Node.js, Java, Git",No,Not Placed,,,
+ER182,CSE,7.68,Yes,4,3,"SQL, JavaScript, Spring Boot, Git, React",Yes,Placed,TCS,Systems Engineer,4.03
+ER183,CSE,7.19,No,4,0,"Java, JavaScript, Git, HTML/CSS",Yes,Not Placed,,,
+ER184,Mechanical,6.86,No,1,2,"CATIA, Excel",Yes,Placed,Tata Projects,Graduate Engineer Trainee,4.89
+ER185,EEE,8.59,No,2,3,"PLC/SCADA, Python, Excel, Electrical Design",Yes,Placed,Kirloskar Brothers,Design Engineer,4.12
+ER186,CSE (Data Science),7.88,Yes,2,3,"Power BI, Tableau, Statistics, Pandas",Yes,Placed,Deloitte,Data Analyst,10.13
+ER187,CSE (Data Science),6.74,Yes,4,2,"Statistics, Machine Learning, Tableau, Python, Git",Yes,Placed,Capgemini,Software Engineer,4.65
+ER188,CSE,7.5,No,2,3,"AWS, DSA, Spring Boot, JavaScript, C++",Yes,Placed,TCS,Assistant System Engineer,4.29
+ER189,Information Science,7.3,No,3,0,"SQL, DSA, React, Python, Java",Yes,Placed,Mphasis,Software Engineer,4.83
+ER190,CSE,8.44,Yes,4,4,"Machine Learning, AWS, Java, Git, Node.js, C++",Yes,Placed,Accenture,Application Development Analyst,5.4
+ER191,CSE (Data Science),6.95,No,4,0,"Deep Learning, Pandas, Java",Yes,Not Placed,,,
+ER192,ECE,7.44,Yes,1,3,"Excel, MATLAB, Arduino, VLSI",Yes,Placed,Infosys,Operations Executive,3.81
+ER193,CSE,6.75,Yes,2,1,"Machine Learning, Git, Python",Yes,Placed,Infosys,Systems Engineer,3.95
+ER194,ECE,7.82,No,2,2,"Arduino, Python, Signal Processing",Yes,Not Placed,,,
+ER195,Civil,7.02,Yes,3,3,"Primavera, Excel",Yes,Placed,Shapoorji Pallonji,Quantity Surveyor Trainee,5.15
+ER196,CSE,7.05,Yes,1,4,Spring Boot,Yes,Placed,Infosys,Systems Engineer,3.98
+ER197,EEE,7.29,No,2,5,Electrical Design,Yes,Not Placed,,,
+ER198,CSE (Data Science),8.64,Yes,3,3,"Tableau, Git, Power BI, Machine Learning",Yes,Placed,Bosch,Software Engineer,8.9
+ER199,CSE (Data Science),7.59,No,2,3,"Power BI, AWS, Python, Machine Learning, Tableau",Yes,Not Placed,,,
+ER200,CSE,5.97,No,0,0,"AWS, DSA, Machine Learning, Git",No,Not Placed,,,
+ER201,EEE,7.39,No,1,3,"AutoCAD, PLC/SCADA",Yes,Not Placed,,,
+ER202,CSE (Data Science),7.16,No,2,1,"Python, Pandas, Statistics, SQL, Power BI",Yes,Placed,Tech Mahindra,Software Engineer,3.81
+ER203,CSE (Data Science),8.32,Yes,3,2,"Git, Statistics, SQL, Python",Yes,Placed,Tech Mahindra,Associate Engineer,4.06
+ER204,Information Science,7.53,Yes,3,2,"HTML/CSS, Cyber Security, Python",Yes,Placed,Capgemini,Analyst,5.54
+ER205,CSE (Data Science),7.91,Yes,3,3,"AWS, Tableau, Python",Yes,Placed,Tech Mahindra,Associate Engineer,3.85
+ER206,CSE,6.81,Yes,4,2,"Java, DSA, AWS, SQL, JavaScript",Yes,Placed,Accenture,Application Development Analyst,5.89
+ER207,CSE,7.44,No,3,2,"Node.js, Git, DSA",Yes,Placed,Wipro,Software Engineer Trainee,3.86
+ER208,Civil,6.29,No,2,2,"STAAD Pro, ETABS",Yes,Not Placed,,,
+ER209,Civil,6.75,No,3,4,"Revit, Excel, Surveying",Yes,Not Placed,,,
+ER210,EEE,6.5,No,1,0,"Python, Electrical Design",Yes,Not Placed,,,
+ER211,Information Science,7.68,Yes,2,3,"Excel, DSA",Yes,Placed,Tech Mahindra,Software Engineer,4.29
+ER212,Information Science,8.49,Yes,2,4,"Excel, JavaScript, SQL",Yes,Placed,Tech Mahindra,Associate Engineer,4.19
+ER213,ECE,6.96,No,1,3,"PCB Design, Signal Processing",Yes,Not Placed,,,
+ER214,EEE,6.31,Yes,2,3,"Power Systems, Embedded C, Excel",Yes,Not Placed,,,
+ER215,ECE,9.08,Yes,4,3,"IoT, Python, Excel, Arduino",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.82
+ER216,EEE,8.06,No,3,4,"AutoCAD, Excel, MATLAB, PLC/SCADA",Yes,Placed,Bosch,Embedded Engineer,8.33
+ER217,CSE,7.7,No,3,1,"JavaScript, AWS, Machine Learning, React",No,Not Placed,,,
+ER218,CSE (Data Science),6.86,No,2,3,"Pandas, Git, Power BI, SQL",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.68
+ER219,EEE,6.94,No,4,4,"AutoCAD, Power Systems, Arduino",Yes,Not Placed,,,
+ER220,CSE,7.92,No,4,2,"JavaScript, SQL, React, DSA",Yes,Placed,TCS,Assistant System Engineer,4.35
+ER221,CSE,8.57,No,5,3,"Node.js, DSA, HTML/CSS",Yes,Placed,Deloitte,Data Analyst,10.44
+ER222,ECE,7.26,No,1,2,"Verilog, VLSI, PCB Design, Excel",Yes,Not Placed,,,
+ER223,Mechanical,6.91,No,4,4,AutoCAD,No,Not Placed,,,
+ER224,Mechanical,6.26,No,3,2,"CATIA, SolidWorks",Yes,Not Placed,,,
+ER225,CSE,6.16,No,2,3,"Machine Learning, C++, AWS",Yes,Not Placed,,,
+ER226,CSE (Data Science),8.27,Yes,2,4,"AWS, Statistics, SQL",Yes,Placed,Fractal Analytics,Business Analyst,6.33
+ER227,CSE (Data Science),8.28,Yes,4,3,"Power BI, Statistics, Python, Tableau, Deep Learning",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.68
+ER228,CSE (Data Science),8.58,No,3,3,"Excel, Java, SQL, Pandas",Yes,Placed,Infosys,Operations Executive,4.46
+ER229,CSE (Data Science),7.66,Yes,4,1,"Git, AWS, Statistics, Deep Learning",Yes,Placed,Fractal Analytics,Business Analyst,5.93
+ER230,ECE,8.76,Yes,4,4,"Embedded C, Python, Signal Processing, IoT",Yes,Placed,Accenture,Associate Software Engineer,6.15
+ER231,Information Science,8.03,No,3,1,"Git, React, Excel, Cyber Security",Yes,Placed,Tech Mahindra,Software Engineer,4.49
+ER232,EEE,6.03,No,3,3,"Embedded C, Python",Yes,Not Placed,,,
+ER233,Mechanical,7.17,No,2,4,"CATIA, Python, CNC/Manufacturing, MATLAB, Excel",Yes,Not Placed,,,
+ER234,CSE,7.95,No,3,1,"AWS, JavaScript, SQL, Python",Yes,Placed,Infosys,Operations Executive,4.44
+ER235,Civil,7.62,No,1,1,"Estimation & Costing, AutoCAD",Yes,Not Placed,,,
+ER236,Mechanical,7.22,No,2,3,"CATIA, Python",Yes,Not Placed,,,
+ER237,CSE (Data Science),9.61,No,2,4,"Tableau, Git, Java, Deep Learning, SQL",Yes,Placed,Bosch,Embedded Engineer,9.12
+ER238,CSE,8.11,Yes,1,4,"JavaScript, Git, Node.js, AWS",Yes,Placed,Deloitte,Data Analyst,11.24
+ER239,CSE,7.48,Yes,4,2,"SQL, Node.js, DSA, React, C++",Yes,Placed,Infosys,Operations Executive,3.94
+ER240,Mechanical,6.77,No,3,2,"Excel, CATIA",Yes,Not Placed,,,
+ER241,ECE,7.8,Yes,1,3,"Embedded C, IoT, Python, C++, Signal Processing",Yes,Placed,LTIMindtree,Graduate Engineer Trainee,5.25
+ER242,CSE (Data Science),7.23,Yes,2,1,"Tableau, Python, AWS",Yes,Placed,Infosys,Systems Engineer,4.3
+ER243,CSE,7.93,No,2,2,"Git, HTML/CSS, DSA",Yes,Placed,Infosys,Systems Engineer,4.41
+ER244,CSE,7.05,No,1,2,"Spring Boot, Git, JavaScript, Node.js",Yes,Not Placed,,,
+ER245,CSE,7.23,No,0,3,"DSA, React, Machine Learning",Yes,Placed,LTIMindtree,Software Engineer,5.3
+ER246,CSE,7.69,No,3,0,"Java, AWS",Yes,Placed,LTIMindtree,Software Engineer,5.7
+ER247,Mechanical,5.71,No,1,2,AutoCAD,No,Not Placed,,,
+ER248,CSE,7.77,Yes,2,3,"SQL, Machine Learning",No,Not Placed,,,
+ER249,ECE,6.45,Yes,2,2,"VLSI, Python, IoT, C++",Yes,Placed,Tech Mahindra,Software Engineer,3.5
+ER250,ECE,7.63,No,2,2,"Verilog, Python, Signal Processing",Yes,Placed,TCS,Systems Engineer,4.07
+ER251,Civil,7.03,Yes,2,2,"Estimation & Costing, Revit, ETABS, Excel",Yes,Not Placed,,,
+ER252,CSE,8.63,Yes,3,4,"HTML/CSS, C++, Machine Learning, Python, React",Yes,Placed,Capgemini,Software Engineer,5.76
+ER253,Civil,5.93,No,2,2,Revit,No,Not Placed,,,
+ER254,Mechanical,6.06,No,2,0,"3D Printing, CATIA, MATLAB, AutoCAD",Yes,Not Placed,,,
+ER255,Information Science,8.23,Yes,2,3,"Excel, SQL",Yes,Placed,Infosys,Operations Executive,3.95
+ER256,EEE,8.2,No,5,2,"Python, AutoCAD, Electrical Design, Power Systems, Excel",Yes,Placed,Kirloskar Brothers,Design Engineer,4.8
+ER257,ECE,7.71,No,3,0,"IoT, VLSI",Yes,Placed,Siemens,Automation Engineer,9.06
+ER258,Mechanical,6.26,No,2,1,"CNC/Manufacturing, AutoCAD",Yes,Not Placed,,,
+ER259,CSE,8.24,Yes,2,1,"React, SQL, Python",Yes,Placed,Capgemini,Analyst,6.17
+ER260,Mechanical,6.48,Yes,3,1,"Python, AutoCAD, Excel, SolidWorks, CNC/Manufacturing",Yes,Placed,Toyota Kirloskar,Design Engineer,4.95
+ER261,Civil,8.1,Yes,5,3,"AutoCAD, Primavera, Estimation & Costing, MS Project, ETABS",Yes,Placed,Kirloskar Brothers,Design Engineer,4.23
+ER262,Civil,6.96,No,1,0,"ETABS, Estimation & Costing, Revit",Yes,Not Placed,,,
+ER263,CSE,8.26,Yes,3,3,"Java, Node.js, SQL, DSA, Python",Yes,Placed,Tech Mahindra,Software Engineer,4.15
+ER264,Mechanical,6.77,Yes,2,1,"Python, ANSYS, SolidWorks, AutoCAD",Yes,Not Placed,,,
+ER265,Information Science,8.21,No,3,1,"Cloud Computing, Python, Excel, SQL",Yes,Placed,Tech Mahindra,Associate Engineer,3.93
+ER266,CSE (Data Science),8.87,Yes,3,4,"Statistics, Java, Machine Learning, Power BI",Yes,Placed,Accenture,Application Development Analyst,5.53
+ER267,Mechanical,6.76,Yes,2,1,ANSYS,Yes,Placed,Tata Projects,Planning Engineer,4.5
+ER268,EEE,6.54,No,3,2,"MATLAB, Arduino, Power Systems",Yes,Not Placed,,,
+ER269,Information Science,7.78,Yes,3,5,"Cyber Security, Excel, Java",Yes,Placed,Infosys,Systems Engineer,3.88
+ER270,ECE,7.64,No,1,4,"Signal Processing, C++, Python, VLSI, Arduino, PCB Design, IoT",Yes,Not Placed,,,
+ER271,CSE,7.72,No,4,5,"Python, Spring Boot, Git, Node.js, Java",Yes,Placed,Amazon,SDE-1,21.11
+ER272,CSE,7.87,Yes,4,2,"Git, Java, Spring Boot, Machine Learning, Node.js",Yes,Placed,TCS,Assistant System Engineer,4.36
+ER273,CSE,7.26,No,3,2,SQL,Yes,Placed,Tech Mahindra,Associate Engineer,4.35
+ER274,CSE (Data Science),8.06,No,3,4,"Pandas, Deep Learning, Git, AWS",Yes,Placed,TCS,Assistant System Engineer,4.1
+ER275,CSE,7.56,Yes,4,3,"HTML/CSS, Java, Spring Boot, Node.js",Yes,Placed,Amazon,SDE-1,17.53
+ER276,CSE (Data Science),8,Yes,4,4,"Machine Learning, SQL, Git, Deep Learning, AWS",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.42
+ER277,EEE,6.57,No,1,3,"Electrical Design, AutoCAD, MATLAB",Yes,Not Placed,,,
+ER278,CSE,6.76,No,1,2,SQL,Yes,Not Placed,,,
+ER279,ECE,8.62,Yes,4,2,"VLSI, Python, Embedded C, Verilog, IoT",Yes,Placed,TCS,Assistant System Engineer,4.26
+ER280,CSE,8.44,No,3,5,"Git, DSA, Spring Boot, JavaScript",Yes,Placed,Tech Mahindra,Software Engineer,4.43
+ER281,EEE,8.72,Yes,4,5,"Arduino, Embedded C, Excel, AutoCAD, Power Systems, MATLAB",Yes,Placed,Infosys,Systems Engineer,4.35
+ER282,CSE (Data Science),8.61,Yes,5,0,"SQL, Python, Machine Learning",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.54
+ER283,Information Science,8.37,No,3,3,"HTML/CSS, SQL, Cyber Security, React, JavaScript",Yes,Placed,Infosys,Systems Engineer,3.89
+ER284,Information Science,7.71,Yes,3,2,"SQL, Cloud Computing, HTML/CSS",Yes,Placed,Tech Mahindra,Associate Engineer,4.26
+ER285,CSE,8.66,No,1,2,"AWS, Machine Learning, Node.js, HTML/CSS",No,Not Placed,,,
+ER286,CSE (Data Science),7.2,Yes,4,4,"Java, AWS, Tableau",No,Not Placed,,,
+ER287,Information Science,7.26,Yes,3,2,"JavaScript, Cloud Computing, Cyber Security",Yes,Placed,Infosys,Systems Engineer,4.06
+ER288,CSE,8.09,Yes,2,0,"AWS, Spring Boot, SQL, Python",Yes,Placed,TCS,Systems Engineer,4.5
+ER289,Information Science,6.86,Yes,2,3,"Excel, Cloud Computing",Yes,Placed,Accenture,Application Development Analyst,6.03
+ER290,Civil,8.12,No,2,2,"Primavera, Excel, Surveying",Yes,Not Placed,,,
+ER291,ECE,8.6,Yes,6,1,"IoT, Python, Embedded C, Verilog, PCB Design",Yes,Placed,Infosys,Operations Executive,3.92
+ER292,CSE,7.44,No,4,1,"Spring Boot, Python, React, Java",Yes,Not Placed,,,
+ER293,CSE (Data Science),8.33,Yes,2,2,"Git, Statistics, Pandas, SQL",Yes,Not Placed,,,
+ER294,CSE,7.73,No,3,3,"Node.js, C++, Spring Boot, Machine Learning, AWS",Yes,Placed,Wipro,Project Engineer,3.98
+ER295,Information Science,7.9,Yes,4,2,"DSA, HTML/CSS, Cloud Computing, React",Yes,Placed,Flipkart,Software Development Engineer,18.81
+ER296,CSE,8.37,Yes,3,5,"Git, React, Node.js, DSA, Spring Boot, Python",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.5
+ER297,Information Science,7.27,Yes,2,5,"React, Git",Yes,Not Placed,,,
+ER298,ECE,5.67,No,1,2,C++,No,Not Placed,,,
+ER299,CSE (Data Science),6.89,No,2,2,"SQL, Deep Learning, Power BI",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.21
+ER300,CSE,6.8,No,2,1,"Spring Boot, React, AWS",Yes,Not Placed,,,
+ER301,CSE (Data Science),6.8,No,2,2,"Machine Learning, SQL, Git",Yes,Placed,Fractal Analytics,Business Analyst,6.71
+ER302,ECE,7.27,Yes,4,2,"VLSI, Excel",Yes,Placed,Capgemini,Analyst,6.66
+ER303,CSE,8.29,Yes,3,3,"React, Git, HTML/CSS",Yes,Placed,Capgemini,Analyst,5.33
+ER304,Information Science,8.13,No,2,1,"Java, JavaScript, SQL, React",Yes,Not Placed,,,
+ER305,Information Science,7.83,Yes,3,3,"SQL, React, Cloud Computing",Yes,Placed,Tech Mahindra,Software Engineer,4.09
+ER306,ECE,7.98,No,4,1,"Embedded C, C++",Yes,Placed,Wipro,Software Engineer Trainee,3.63
+ER307,Mechanical,8.21,No,3,3,"MATLAB, Python, SolidWorks, AutoCAD",Yes,Not Placed,,,
+ER308,CSE,8.9,Yes,4,4,"Node.js, DSA, Git, JavaScript, C++",Yes,Placed,Fractal Analytics,Business Analyst,6.55
+ER309,Civil,7.13,No,1,1,"STAAD Pro, MS Project, Revit",Yes,Not Placed,,,
+ER310,Civil,7.2,No,1,3,Excel,Yes,Not Placed,,,
+ER311,ECE,7.9,No,2,1,"MATLAB, Excel, IoT, Embedded C",Yes,Placed,Tech Mahindra,Software Engineer,4
+ER312,CSE,6.97,Yes,4,6,"Node.js, Java, React",Yes,Not Placed,,,
+ER313,CSE,9.66,Yes,4,5,"JavaScript, DSA, Python, Node.js, C++, SQL",Yes,Placed,Capgemini,Analyst,5.63
+ER314,CSE (Data Science),7.78,No,4,1,"Pandas, Java",Yes,Not Placed,,,
+ER315,EEE,6.85,No,2,3,"Power Systems, MATLAB",Yes,Not Placed,,,
+ER316,CSE,8.7,Yes,5,5,"React, JavaScript, Python, AWS, Spring Boot",Yes,Placed,TCS,Systems Engineer,4.19
+ER317,ECE,6.88,No,1,2,"IoT, Excel, Arduino, Embedded C",Yes,Not Placed,,,
+ER318,CSE,8.22,Yes,3,3,"HTML/CSS, Node.js, Spring Boot, Python, Machine Learning",Yes,Placed,Flipkart,Software Development Engineer,17.67
+ER319,EEE,6.48,No,2,1,"Excel, Embedded C, Power Systems",Yes,Not Placed,,,
+ER320,CSE,7.85,No,3,3,"DSA, Java, Python, React",Yes,Placed,Intel,Graduate Technical Intern,14.41
+ER321,EEE,6.96,No,2,0,"MATLAB, Electrical Design, Python, Arduino",Yes,Not Placed,,,
+ER322,EEE,8.04,No,2,2,"PLC/SCADA, Power Systems, Excel, MATLAB, Arduino",Yes,Not Placed,,,
+ER323,Information Science,8.16,Yes,3,2,"Git, React, Python, SQL, Excel",Yes,Placed,Deloitte,Analyst,11.65
+ER324,ECE,6.38,No,4,1,"Excel, Verilog",Yes,Not Placed,,,
+ER325,CSE (Data Science),7.31,Yes,3,1,"Git, Java",Yes,Not Placed,,,
+ER326,ECE,7.81,No,2,3,"Python, MATLAB, Verilog, Excel, PCB Design",No,Not Placed,,,
+ER327,CSE (Data Science),6.4,No,1,0,AWS,Yes,Placed,LTIMindtree,Software Engineer,5.91
+ER328,Mechanical,8,Yes,3,1,"SolidWorks, CATIA, ANSYS",Yes,Placed,Tata Motors,Graduate Engineer Trainee,6.01
+ER329,CSE,5.97,Yes,3,1,C++,No,Not Placed,,,
+ER330,Civil,7.29,Yes,2,2,"Surveying, Excel, ETABS, STAAD Pro",Yes,Placed,L&T Construction,Graduate Engineer Trainee,4.47
+ER331,Mechanical,7.8,No,4,0,"MATLAB, 3D Printing, SolidWorks, CATIA, ANSYS",No,Not Placed,,,
+ER332,ECE,8.01,Yes,3,0,"IoT, Embedded C, Arduino, PCB Design",Yes,Placed,Siemens,Graduate Engineer Trainee,7.95
+ER333,Civil,7.02,Yes,4,2,"Surveying, STAAD Pro, MS Project, Revit",Yes,Not Placed,,,
+ER334,CSE (Data Science),8.19,No,2,4,"Statistics, Python, Tableau",Yes,Placed,TCS,Systems Engineer,4.5
+ER335,CSE,7.83,Yes,5,6,"JavaScript, Machine Learning, HTML/CSS, Java, Spring Boot",Yes,Placed,TCS,Assistant System Engineer,4.37
+ER336,Information Science,7.82,Yes,3,3,"Cyber Security, DSA, Python, Java",Yes,Placed,Wipro,Project Engineer,3.67
+ER337,Information Science,9.01,Yes,4,4,"Python, Cyber Security, React, SQL",Yes,Placed,Wipro,Software Engineer Trainee,3.76
+ER338,ECE,8.16,Yes,4,0,"IoT, C++, Excel, Arduino, Embedded C",Yes,Placed,Wipro,Project Engineer,3.91
+ER339,Civil,7.43,No,2,1,"Revit, Surveying, STAAD Pro",Yes,Not Placed,,,
+ER340,CSE,8.32,Yes,4,5,"JavaScript, AWS, Spring Boot, DSA",Yes,Placed,Oracle,Associate Software Developer,13.68
+ER341,EEE,7.34,No,2,1,"Embedded C, Python, Excel",Yes,Placed,Kirloskar Brothers,Graduate Engineer Trainee,4.55
+ER342,EEE,7.28,Yes,3,2,"Python, Electrical Design",Yes,Not Placed,,,
+ER343,CSE,8.86,Yes,4,4,"Node.js, Spring Boot, C++, SQL",Yes,Placed,Flipkart,Software Development Engineer,18.07
+ER344,Civil,8.27,Yes,4,4,"Primavera, STAAD Pro, Excel",Yes,Placed,L&T Construction,Graduate Engineer Trainee,4.92
+ER345,CSE (Data Science),8.71,Yes,2,3,"Machine Learning, Pandas, Python, Git, Deep Learning",Yes,Placed,TCS,Systems Engineer,3.79
+ER346,CSE,8.55,Yes,5,1,"Node.js, Machine Learning, C++, DSA, JavaScript",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.73
+ER347,EEE,6.57,Yes,3,3,"Python, Arduino, Electrical Design",Yes,Placed,Kirloskar Brothers,Graduate Engineer Trainee,4.17
+ER348,CSE,6.83,No,0,2,"Git, Node.js",Yes,Placed,Accenture,Associate Software Engineer,5.89
+ER349,EEE,7.88,No,1,2,"Arduino, Python, MATLAB, Excel",Yes,Placed,Wipro,Project Engineer,3.6
+ER350,CSE,8.09,No,3,0,"HTML/CSS, SQL, Java",Yes,Placed,Tech Mahindra,Software Engineer,4.04
+ER351,CSE,6.99,Yes,4,3,"Python, DSA, Git, Machine Learning, AWS, JavaScript",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.23
+ER352,Information Science,8.12,Yes,3,4,"Git, Cloud Computing, Cyber Security, HTML/CSS",Yes,Not Placed,,,
+ER353,Mechanical,8.07,Yes,4,6,"AutoCAD, Excel, SolidWorks, ANSYS, 3D Printing",Yes,Placed,Kirloskar Brothers,Design Engineer,4.01
+ER354,EEE,7.35,Yes,6,3,"MATLAB, Electrical Design, PLC/SCADA, AutoCAD, Embedded C, Python, Arduino",Yes,Placed,Tata Motors,Design Engineer,6.34
+ER355,CSE,8.55,Yes,3,3,"Spring Boot, Node.js, Java, Python, HTML/CSS",Yes,Placed,LTIMindtree,Software Engineer,5.6
+ER356,CSE,7.96,No,1,1,"Python, HTML/CSS, Java",Yes,Placed,Accenture,Associate Software Engineer,6.01
+ER357,Mechanical,6.77,No,3,3,"CATIA, Python, CNC/Manufacturing, SolidWorks",Yes,Not Placed,,,
+ER358,Information Science,8.31,Yes,3,3,"Cyber Security, React, SQL, Cloud Computing, Java, Git",Yes,Placed,Wipro,Project Engineer,3.61
+ER359,Information Science,6.05,No,3,0,"DSA, Java",Yes,Not Placed,,,
+ER360,CSE (Data Science),8.79,Yes,5,2,"Excel, SQL, Git, Java, Power BI",Yes,Placed,TCS,Assistant System Engineer,4.35
+ER361,Mechanical,8.24,Yes,5,0,"ANSYS, SolidWorks, MATLAB",Yes,Placed,Bosch,Software Engineer,9.53
+ER362,ECE,8.16,Yes,5,4,"Verilog, Arduino, VLSI, PCB Design",No,Not Placed,,,
+ER363,ECE,7.1,No,2,3,"Verilog, Signal Processing, Excel, Arduino",Yes,Placed,TCS,Systems Engineer,4.07
+ER364,CSE,8.38,Yes,4,4,"Python, React, SQL, Git, DSA, JavaScript",Yes,Placed,Flipkart,Software Development Engineer,16.43
+ER365,CSE (Data Science),8.17,Yes,4,2,"Java, Power BI, Git, Tableau",Yes,Placed,Mphasis,Software Engineer,5.78
+ER366,CSE (Data Science),6.92,Yes,2,3,"Pandas, Statistics",Yes,Placed,Wipro,Software Engineer Trainee,3.62
+ER367,CSE,8.41,Yes,3,1,"Machine Learning, Python, SQL, HTML/CSS",Yes,Placed,Accenture,Associate Software Engineer,6.41
+ER368,CSE (Data Science),7.1,Yes,4,4,"Python, Deep Learning, Machine Learning, AWS",No,Not Placed,,,
+ER369,CSE (Data Science),7.44,Yes,1,2,"Java, Tableau",Yes,Not Placed,,,
+ER370,CSE,7.44,No,1,4,"HTML/CSS, Git, JavaScript, Python, Java",Yes,Placed,Fractal Analytics,Business Analyst,7.35
+ER371,Civil,6.25,No,2,1,"MS Project, Excel, AutoCAD",Yes,Not Placed,,,
+ER372,Mechanical,6.33,No,1,2,ANSYS,Yes,Not Placed,,,
+ER373,CSE (Data Science),8.74,Yes,4,4,"Machine Learning, Statistics, AWS, Git",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.75
+ER374,EEE,6.05,No,2,1,"Embedded C, Excel",Yes,Not Placed,,,
+ER375,CSE (Data Science),8.11,Yes,3,2,"Git, Power BI, SQL, AWS",Yes,Placed,Tech Mahindra,Software Engineer,4.19
+ER376,Mechanical,6.29,No,1,3,"ANSYS, CATIA, MATLAB",Yes,Not Placed,,,
+ER377,CSE,8.37,Yes,4,1,"Machine Learning, Spring Boot",Yes,Placed,Mphasis,Software Engineer,5.96
+ER378,ECE,5.96,No,2,1,"MATLAB, IoT, C++",No,Not Placed,,,
+ER379,ECE,6.92,No,1,3,"Signal Processing, Excel",Yes,Not Placed,,,
+ER380,CSE,7.82,Yes,3,1,"SQL, Spring Boot, React, Python",Yes,Placed,Mphasis,Data Analyst Trainee,5.02
+ER381,CSE,7.93,Yes,4,0,"SQL, Git, AWS, Machine Learning",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.18
+ER382,Information Science,7.02,No,2,2,"Git, Python",Yes,Not Placed,,,
+ER383,CSE,7.22,No,4,1,"Python, Spring Boot, Node.js",Yes,Not Placed,,,
+ER384,CSE,8.21,Yes,4,4,"C++, Git, Python, React",Yes,Placed,Fractal Analytics,Business Analyst,7.03
+ER385,Civil,7.45,No,2,0,"Estimation & Costing, Revit",Yes,Not Placed,,,
+ER386,ECE,7.77,No,3,0,"C++, IoT, VLSI",Yes,Placed,Tech Mahindra,Associate Engineer,4.18
+ER387,Civil,7.93,Yes,3,4,"Primavera, Revit",Yes,Placed,Tata Projects,Planning Engineer,4.52
+ER388,ECE,6.46,No,0,1,"Embedded C, C++, Excel",Yes,Placed,TCS,Systems Engineer,4.19
+ER389,CSE,8.23,Yes,2,4,"Spring Boot, SQL, Git",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.97
+ER390,ECE,7.49,No,2,3,"Arduino, IoT, Embedded C",Yes,Placed,Infosys,Systems Engineer,3.89
+ER391,ECE,7.35,No,0,1,"Excel, Signal Processing, Python",Yes,Not Placed,,,
+ER392,Information Science,7.71,Yes,4,5,"Python, Git, DSA, Cyber Security",Yes,Placed,Accenture,Associate Software Engineer,5.69
+ER393,CSE,9.13,Yes,5,2,"AWS, Git, JavaScript, Python, SQL, DSA",Yes,Placed,Tech Mahindra,Software Engineer,4.5
+ER394,CSE (Data Science),8.08,Yes,3,2,"Power BI, Pandas, Git, Statistics",Yes,Placed,Accenture,Associate Software Engineer,5.9
+ER395,CSE,8.52,No,4,2,"React, Git, Python, Machine Learning",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.5
+ER396,ECE,6.38,No,1,3,"Verilog, Arduino, Excel",Yes,Not Placed,,,
+ER397,ECE,9.57,Yes,5,3,"MATLAB, VLSI, Embedded C, C++, IoT",Yes,Placed,Bosch,Embedded Engineer,10.49
+ER398,EEE,7.67,No,3,1,"Excel, Power Systems, AutoCAD",Yes,Not Placed,,,
+ER399,Mechanical,6.9,No,3,5,"AutoCAD, CNC/Manufacturing, MATLAB, SolidWorks, CATIA",Yes,Placed,Toyota Kirloskar,Production Engineer,5.39
+ER400,CSE,6.74,No,1,2,"AWS, SQL, DSA",Yes,Not Placed,,,
+ER401,Mechanical,6.79,No,1,2,"Excel, SolidWorks, CNC/Manufacturing",Yes,Not Placed,,,
+ER402,CSE,7.39,No,1,0,"AWS, Machine Learning, Git, SQL",Yes,Not Placed,,,
+ER403,Information Science,9.61,Yes,4,4,"JavaScript, DSA, SQL, Excel, Git, Cyber Security",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.74
+ER404,CSE,7.91,No,2,2,"C++, Machine Learning, Git",No,Not Placed,,,
+ER405,CSE (Data Science),7.73,Yes,6,2,"SQL, Machine Learning, Python",Yes,Placed,Capgemini,Software Engineer,4.75
+ER406,Mechanical,7.45,Yes,2,3,"AutoCAD, 3D Printing, MATLAB, CNC/Manufacturing",Yes,Placed,Schneider Electric,Graduate Engineer Trainee,7.28
+ER407,CSE,7.64,No,2,1,"React, Git, AWS, Machine Learning",Yes,Placed,Infosys,Systems Engineer,4.12
+ER408,CSE,8.63,Yes,4,4,"DSA, Machine Learning, JavaScript, React",Yes,Placed,Oracle,Associate Software Developer,17.77
+ER409,Mechanical,8.2,No,1,3,"3D Printing, CATIA, CNC/Manufacturing",Yes,Not Placed,,,
+ER410,CSE,8.04,No,3,1,"React, Node.js",Yes,Placed,TCS,Systems Engineer,4.04
+ER411,CSE,7.35,No,4,2,"Machine Learning, React",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.28
+ER412,Civil,6.61,No,1,2,"MS Project, ETABS, STAAD Pro",Yes,Placed,Shapoorji Pallonji,Site Engineer,4.93
+ER413,ECE,7.8,Yes,3,1,"Excel, Verilog, Python",Yes,Placed,Tech Mahindra,Associate Engineer,4.02
+ER414,Information Science,7.23,Yes,3,4,"React, Cyber Security, Java",Yes,Not Placed,,,
+ER415,Civil,6.22,No,0,2,MS Project,Yes,Not Placed,,,
+ER416,ECE,7.14,Yes,2,4,"VLSI, Excel, Verilog",Yes,Not Placed,,,
+ER417,CSE,9.04,Yes,3,3,"Java, JavaScript, DSA, Git",Yes,Placed,Bosch,Embedded Engineer,10.72
+ER418,CSE,7.78,No,5,3,"React, JavaScript, Machine Learning",No,Not Placed,,,
+ER419,Civil,7.37,Yes,3,4,"STAAD Pro, Revit",Yes,Not Placed,,,
+ER420,CSE,8.65,Yes,4,3,"SQL, Node.js, Spring Boot, React, Git",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.26
+ER421,Mechanical,6.17,No,3,4,"MATLAB, CNC/Manufacturing, CATIA",Yes,Not Placed,,,
+ER422,CSE,6.58,No,3,2,"React, Git",Yes,Not Placed,,,
+ER423,Information Science,8.35,Yes,3,2,"Python, Java, Cloud Computing, React",Yes,Placed,Fractal Analytics,Business Analyst,7.38
+ER424,EEE,8.53,No,4,3,"Python, MATLAB, Power Systems",Yes,Placed,Tata Projects,Planning Engineer,4.43
+ER425,Civil,7.29,No,2,3,"Primavera, AutoCAD, MS Project",Yes,Not Placed,,,
+ER426,Mechanical,8.39,Yes,2,1,"AutoCAD, CATIA, Python, CNC/Manufacturing",Yes,Placed,Kirloskar Brothers,Graduate Engineer Trainee,4
+ER427,EEE,7.73,No,1,3,"MATLAB, Arduino, Excel, PLC/SCADA",Yes,Not Placed,,,
+ER428,CSE (Data Science),9.18,Yes,4,1,"Power BI, Pandas, Git, AWS, Java",Yes,Placed,TCS,Assistant System Engineer,4.4
+ER429,Information Science,7.02,No,3,5,"JavaScript, SQL, Excel",Yes,Placed,Mphasis,Software Engineer,5.22
+ER430,Information Science,7.39,No,2,3,"JavaScript, Excel, Cloud Computing",Yes,Placed,TCS,Systems Engineer,3.98
+ER431,Mechanical,7.57,No,3,2,"CATIA, ANSYS, AutoCAD, Excel",Yes,Placed,L&T Construction,Graduate Engineer Trainee,4.34
+ER432,CSE (Data Science),7.11,No,2,0,"Java, Statistics, Git, Python",Yes,Placed,Infosys,Systems Engineer,3.95
+ER433,Civil,6.54,No,2,3,Excel,Yes,Not Placed,,,
+ER434,ECE,7.9,Yes,4,2,"Signal Processing, VLSI, C++",Yes,Placed,Infosys,Systems Engineer,4.15
+ER435,ECE,7.39,Yes,3,4,"PCB Design, MATLAB, Python, Arduino",Yes,Not Placed,,,
+ER436,Information Science,7.54,Yes,3,3,"React, Python, Cloud Computing, DSA",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.35
+ER437,CSE,9.04,Yes,4,4,"SQL, Python, Git, Java",Yes,Placed,Tech Mahindra,Software Engineer,4.05
+ER438,Information Science,7.31,No,1,2,"JavaScript, Git, HTML/CSS",Yes,Placed,LTIMindtree,Software Engineer,4.9
+ER439,CSE,7.6,Yes,2,3,"HTML/CSS, Git, AWS",Yes,Placed,Accenture,Associate Software Engineer,5.18
+ER440,Information Science,7.36,Yes,2,2,"SQL, DSA, Git, Cloud Computing",Yes,Not Placed,,,
+ER441,CSE,9.06,Yes,5,2,"Git, Machine Learning, Node.js, Java, DSA",Yes,Placed,Wipro,Project Engineer,3.73
+ER442,Civil,6.49,No,3,2,"AutoCAD, Excel, MS Project, ETABS",Yes,Placed,Kirloskar Brothers,Graduate Engineer Trainee,4.55
+ER443,ECE,7.18,Yes,3,2,"VLSI, IoT, C++, Verilog",Yes,Not Placed,,,
+ER444,Mechanical,7.83,No,2,0,"AutoCAD, Excel, 3D Printing, SolidWorks",Yes,Not Placed,,,
+ER445,EEE,6.23,No,3,2,"Excel, Electrical Design, Power Systems",Yes,Not Placed,,,
+ER446,Mechanical,6.19,No,3,1,"Python, 3D Printing, SolidWorks",Yes,Not Placed,,,
+ER447,CSE (Data Science),7.54,No,1,0,Java,Yes,Placed,Tech Mahindra,Software Engineer,4.04
+ER448,Information Science,7.84,Yes,3,4,"Python, DSA, JavaScript",Yes,Not Placed,,,
+ER449,Civil,6.99,No,1,2,"Revit, MS Project, Estimation & Costing, Excel",Yes,Not Placed,,,
+ER450,ECE,6.92,Yes,2,1,"Python, Signal Processing",Yes,Not Placed,,,
+ER451,Civil,8.28,Yes,3,3,"Primavera, MS Project",Yes,Placed,Kirloskar Brothers,Graduate Engineer Trainee,4.57
+ER452,CSE (Data Science),8,No,2,2,"Machine Learning, Git, Tableau",Yes,Placed,Wipro,Software Engineer Trainee,3.8
+ER453,ECE,7.76,Yes,4,4,"Verilog, VLSI, Python, C++",Yes,Placed,Infosys,Systems Engineer,4.15
+ER454,CSE,7.43,Yes,4,1,"SQL, HTML/CSS, Java",Yes,Placed,Infosys,Systems Engineer,3.9
+ER455,Information Science,7.46,Yes,4,2,"Cyber Security, Python, Excel, Java",No,Not Placed,,,
+ER456,CSE,7.92,Yes,3,1,"Git, SQL, React, Node.js",Yes,Placed,Tech Mahindra,Associate Engineer,4.2
+ER457,CSE (Data Science),8.84,No,3,3,"Python, SQL, Pandas, Tableau, Java",Yes,Placed,Accenture,Application Development Analyst,5.16
+ER458,Civil,7.6,Yes,4,5,"Primavera, MS Project, AutoCAD, Revit",Yes,Placed,Tata Projects,Planning Engineer,4.88
+ER459,ECE,7.19,No,2,2,"MATLAB, VLSI, IoT",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.17
+ER460,Mechanical,6.43,No,0,1,CNC/Manufacturing,Yes,Not Placed,,,
+ER461,CSE (Data Science),6.93,No,2,2,"Pandas, Tableau, SQL, Java, Power BI, Excel",Yes,Not Placed,,,
+ER462,Information Science,6.13,No,2,3,"Cyber Security, React",Yes,Not Placed,,,
+ER463,CSE,8.04,Yes,2,1,"SQL, Java, HTML/CSS",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.61
+ER464,Mechanical,6.64,Yes,2,0,Excel,Yes,Not Placed,,,
+ER465,CSE (Data Science),8.33,Yes,3,5,"Java, Python, Excel, Git, Tableau",Yes,Placed,Capgemini,Software Engineer,6.69
+ER466,CSE (Data Science),7.27,Yes,2,2,"Pandas, Java, Python",Yes,Placed,Tech Mahindra,Software Engineer,4.09
+ER467,ECE,7.22,Yes,4,1,"Arduino, PCB Design",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.74
+ER468,ECE,7.7,Yes,4,4,"Embedded C, Verilog, C++, VLSI",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.65
+ER469,CSE (Data Science),8.49,No,2,4,"AWS, Excel, Git, Power BI, SQL",Yes,Not Placed,,,
+ER470,CSE,8.58,No,5,4,"Machine Learning, DSA, Python, AWS",Yes,Placed,Goldman Sachs,Software Engineer,21.36
+ER471,Mechanical,6.52,No,1,1,"CNC/Manufacturing, 3D Printing, Excel",Yes,Not Placed,,,
+ER472,Information Science,6.63,No,3,0,"Cloud Computing, Python",Yes,Placed,LTIMindtree,Software Engineer,5.55
+ER473,CSE,7.94,No,3,1,"Java, Node.js, Git",Yes,Placed,Capgemini,Software Engineer,4.42
+ER474,Information Science,7.7,No,3,0,Cyber Security,Yes,Placed,Capgemini,Analyst,5.37
+ER475,ECE,7.09,No,4,4,"PCB Design, VLSI, C++",Yes,Placed,TCS,Assistant System Engineer,3.82
+ER476,CSE,8.02,No,1,2,"Python, C++, React, Spring Boot",Yes,Not Placed,,,
+ER477,CSE,7.31,No,0,4,"JavaScript, Machine Learning, Spring Boot, HTML/CSS",Yes,Not Placed,,,
+ER478,Mechanical,8.5,Yes,5,4,"Excel, 3D Printing, AutoCAD, Python",Yes,Not Placed,,,
+ER479,EEE,7.74,No,2,2,"AutoCAD, MATLAB, Arduino, Embedded C",Yes,Not Placed,,,
+ER480,EEE,6.18,No,2,1,"PLC/SCADA, AutoCAD, Python",Yes,Placed,TCS,Systems Engineer,3.9
+ER481,Mechanical,7.54,No,3,2,"Excel, AutoCAD",Yes,Not Placed,,,
+ER482,CSE,7.69,Yes,2,2,"Git, Java, AWS",Yes,Placed,Wipro,Software Engineer Trainee,3.74
+ER483,CSE (Data Science),7.16,Yes,4,2,"Machine Learning, Pandas, Power BI, Deep Learning, Tableau",Yes,Placed,Capgemini,Software Engineer,5.42
+ER484,EEE,7.85,Yes,3,4,"Excel, MATLAB, Embedded C",Yes,Placed,Tata Projects,Planning Engineer,5.38
+ER485,Information Science,8.03,Yes,4,3,"Git, Java, React",Yes,Placed,TCS,Assistant System Engineer,3.77
+ER486,CSE,8.22,Yes,3,3,"DSA, AWS, C++, Python",Yes,Placed,Mphasis,Software Engineer,5.18
+ER487,EEE,7.43,No,4,2,"Excel, AutoCAD, Python, Electrical Design, Arduino",Yes,Not Placed,,,
+ER488,ECE,7.11,No,0,3,"Excel, MATLAB, PCB Design, Arduino",Yes,Placed,Infosys,Operations Executive,3.99
+ER489,CSE,8.42,Yes,4,3,"Machine Learning, React, SQL, Git",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.79
+ER490,CSE,7.22,Yes,4,2,"HTML/CSS, Machine Learning, React",Yes,Placed,Accenture,Application Development Analyst,4.87
+ER491,EEE,7.9,Yes,3,4,"AutoCAD, MATLAB, Arduino",Yes,Placed,Bosch,Software Engineer,8.87
+ER492,CSE (Data Science),6.82,No,3,3,"AWS, Power BI, Statistics",Yes,Not Placed,,,
+ER493,ECE,7.35,Yes,2,2,"Python, IoT, Verilog",Yes,Placed,TCS,Assistant System Engineer,4.33
+ER494,CSE,8.43,Yes,3,1,"SQL, HTML/CSS, Machine Learning, AWS",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.51
+ER495,Mechanical,6.8,No,3,2,"AutoCAD, ANSYS, CNC/Manufacturing",Yes,Not Placed,,,
+ER496,Information Science,6.96,No,1,3,"Cyber Security, HTML/CSS",Yes,Placed,Wipro,Project Engineer,3.66
+ER497,CSE,8.08,Yes,3,3,"DSA, Git, Machine Learning",No,Not Placed,,,
+ER498,CSE,8.52,Yes,1,4,"HTML/CSS, React, C++",Yes,Placed,Goldman Sachs,Analyst,22.61
+ER499,CSE (Data Science),7.22,No,3,2,"Java, Power BI, AWS, Excel",Yes,Placed,LTIMindtree,Graduate Engineer Trainee,5.54
+ER500,CSE (Data Science),8.67,Yes,3,4,"Pandas, Python, Git, Excel",Yes,Placed,Cognizant,Programmer Analyst Trainee,4.8
